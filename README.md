@@ -7,6 +7,7 @@ dummy-haj
 
 [INTRANET]
 hello2...
+hello2...
 
 # Conflict Resolution
 
