@@ -7,7 +7,16 @@ dummy-haj
 
 [INTRANET]
 hello2...
+hello1...
+<<<<<<< HEAD
+hello1...
+=======
 hello2...
+<<<<<<< HEAD
+hello2...
+=======
+>>>>>>> c7360f9be8709d66606f6adde85debbd5718c729
+>>>>>>> b9da01008309bc6d75c0fb9b8fc99e053eea2a70
 
 # Conflict Resolution
 
